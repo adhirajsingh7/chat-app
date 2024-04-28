@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": "1", "name": "john" },
+    { "id": "2", "name": "bohemia" },
+    { "id": "3", "name": "ronaldo" },
+    { "id": "4", "name": "messi" },
+    { "id": "5", "name": "kylian mbappé" }
+  ]
+}
